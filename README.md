@@ -1,0 +1,5 @@
+My name is Shoshana Farber. I usually go by Shana but I don't really mind either way. The best way to contact me would be through Slack or my school email (shoshana.farber15@spsmail.cuny.edu). I am probably more likely to respond on Slack though. 
+
+Currently I work as a paralegal in a personal injury firm. I haven't done much programming professionally yet, but I did have a brief summer internship with Microsoft Research which was mainly based in R. I would say I am pretty comfortable coding in R and I am trying to gain more experience in coding in Python. I have never used a Geographical Information System. 
+
+I am hoping that the courses I am taking now will help me to enhance my programming skills so I can transition into a more technical/analytical role. I'm also hoping to be able to build a portfoliio of projects that I will be happy to showcase for prospective jobs. 
